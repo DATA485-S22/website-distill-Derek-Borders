@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-13T23:40:13-08:00"
+      "last_modified": "2022-02-14T00:00:35-08:00"
     },
     {
       "path": "index.html",
@@ -14,14 +14,14 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-13T23:40:14-08:00"
+      "last_modified": "2022-02-14T00:00:36-08:00"
     },
     {
       "path": "links.html",
       "title": "links",
       "author": [],
       "contents": "\r\nResources\r\nUseful links and resources for my courses this semester\r\nAdvanced Data Science\r\nCourse Site\r\nOperating Systems\r\nAdvanced Algoritms\r\nApplied Stats II\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-13T23:40:14-08:00"
+      "last_modified": "2022-02-14T00:00:36-08:00"
     }
   ],
   "collections": ["posts/posts.json"]
