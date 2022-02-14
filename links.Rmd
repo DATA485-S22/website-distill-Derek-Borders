@@ -1,0 +1,23 @@
+---
+title: "links"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Resources {.tabset}  
+Useful links and resources for my courses this semester
+
+## Advanced Data Science  
+
+[Course Site](https://data485.netlify.app/index.html)
+
+## Operating Systems  
+
+
+## Advanced Algoritms  
+
+
+## Applied Stats II  
+

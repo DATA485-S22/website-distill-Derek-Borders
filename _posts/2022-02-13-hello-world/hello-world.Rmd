@@ -1,0 +1,16 @@
+---
+title: "Hello World2"
+description: |
+  A short description of the post.
+author:
+  - name: Unknown
+date: 2022-02-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+# Hello World  
+
+I moved on to blogdown/hugo pretty quickly so I didn't invest much time into distill. 
